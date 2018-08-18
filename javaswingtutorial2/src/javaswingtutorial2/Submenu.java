@@ -1,5 +1,6 @@
 package javaswingtutorial2;
 
+/**
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
@@ -81,6 +82,6 @@ public class Submenu extends JFrame {
         new Submenu();
     }
 }
-
+*/
 
 // example of submenus in a JFrame

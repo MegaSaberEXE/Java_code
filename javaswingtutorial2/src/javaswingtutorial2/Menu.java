@@ -18,7 +18,7 @@ public class Menu extends JFrame {
         setTitle("Menu");
         
         JMenuBar menubar = new JMenuBar();
-        ImageIcon icon = new ImageIcon("C:\\Users\\MegaSaber\\Documents\\NetBeansProjects\\javaswingtutorial2\\src\\javaswingtutorial2\\Weeaboo_republic_logo.png");
+        ImageIcon icon = new ImageIcon("C:\\Users\\MegaSaber\\Documents\\NetBeansProjects\\javaswingtutorial2\\src\\javaswingtutorial2\\thing.png");
         JMenu file = new JMenu("File");
         file.setMnemonic(KeyEvent.VK_K);
         
